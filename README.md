@@ -6,6 +6,8 @@ Hello there! This script is designed to detect potential SQL injection vulnerabi
 
 The script recursively traverses through all `.js` files in your project, parses the JavaScript code to an Abstract Syntax Tree (AST), and then looks for patterns that might indicate SQL injection vulnerabilities. If it finds any, it will print a warning to the console. Think of this as a first line of defense against sneaky SQL injections.
 
+![alt text](/Inspector.png)
+
 ## 🚀 How to Use
 
 
